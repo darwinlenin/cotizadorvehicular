@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+https://cotizadoresvehiculares.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0525a0cd-b74b-4d07-9966-2ebdaaf90af1/deploy-status)](https://app.netlify.com/sites/cotizadoresvehiculares/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
